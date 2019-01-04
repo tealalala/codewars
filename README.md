@@ -1,3 +1,2 @@
 # Codewars
-![Codewars: tealalala][logo]
-[logo]: https://www.codewars.com/users/tealalala/badges/small "Codewars: tealalala"
+![](https://www.codewars.com/users/tealalala/badges/large "Codewars: tealalala")
