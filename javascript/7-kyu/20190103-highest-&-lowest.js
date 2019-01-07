@@ -2,7 +2,7 @@
 
 // Codewars > JavaScript > 7 kyu
 // Highest & Lowest
-// https://www.codewars.com/kata/highest-and-lowest/train/javascript
+// https://www.codewars.com/kata/highest-and-lowest
 
 function highAndLow(numbers){
   var num = numbers.split(" ").map(el => parseInt(el));

@@ -2,7 +2,7 @@
 
 // Codewars > JavaScript > 7 kyu
 // You're a Square!
-// https://www.codewars.com/kata/youre-a-square/train/javascript
+// https://www.codewars.com/kata/youre-a-square
 
 // My answer
 var isSquare = function(n){

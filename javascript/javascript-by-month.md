@@ -14,4 +14,6 @@
 05: [Odd or Even?](7-kyu/20190105-odd-or-even.js) - [Codewars](https://www.codewars.com/kata/odd-or-even)
 
 06: [Word Search](7-kyu/20190106-wordsearch.js) - [Codewars](https://www.codewars.com/kata/wordsearch)
+
+07: [Find the next perfect square!](7-kyu/20190107-find-perfect-square.js) - [Codewars](https://www.codewars.com/kata/find-the-next-perfect-square)
 ___
