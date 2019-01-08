@@ -5,6 +5,7 @@
 ## 7 kyu
 * [Find the next perfect square!](7-kyu/20190107-find-perfect-square.js) - [Codewars](https://www.codewars.com/kata/find-the-next-perfect-square)
 * [Highest & Lowest](7-kyu/20190103-highest-&-lowest.js) - [Codewars](https://www.codewars.com/kata/highest-and-lowest/train/javascript)
+* [Merge two arrays](7-kyu/20190108-merge-two-arrays.js) - [Codewars](https://www.codewars.com/kata/merge-two-arrays/)
 * [Odd or Even?](7-kyu/20190105-odd-or-even.js) - [Codewars](https://www.codewars.com/kata/odd-or-even)
 * [Sum Even Number](7-kyu/20190104-sum-even-numbers.js) - [Codewars](https://www.codewars.com/kata/sum-even-numbers)
 * [Word Search](7-kyu/20190106-wordsearch.js) - [Codewars](https://www.codewars.com/kata/wordsearch)
