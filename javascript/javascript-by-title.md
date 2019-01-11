@@ -17,10 +17,13 @@ ___
 * [Sum without highest and lowest number](8-kyu/20190109-sum-without-high-and-low.js) - [Codewars](https://www.codewars.com/kata/sum-without-highest-and-lowest-number)
 ___
 ## 7 kyu
+* [Descending Order](7-kyu/20190110-descending-order.js) - [Codewars](https://www.codewars.com/kata/descending-order)
+* [Exes and Ohs](7-kyu/20190110-exes-and-ohs.js) - [Codewars](https://www.codewars.com/kata/exes-and-ohs)
 * [Find the next perfect square!](7-kyu/20190107-find-perfect-square.js) - [Codewars](https://www.codewars.com/kata/find-the-next-perfect-square)
 * [Highest & Lowest](7-kyu/20190103-highest-&-lowest.js) - [Codewars](https://www.codewars.com/kata/highest-and-lowest/train/javascript)
 * [Merge two arrays](7-kyu/20190108-merge-two-arrays.js) - [Codewars](https://www.codewars.com/kata/merge-two-arrays/)
 * [Odd or Even?](7-kyu/20190105-odd-or-even.js) - [Codewars](https://www.codewars.com/kata/odd-or-even)
+* [Shortest Word](7-kyu/20190110-shortest-word.js) - [Codewars](https://www.codewars.com/kata/shortest-word)
 * [Sum Even Number](7-kyu/20190104-sum-even-numbers.js) - [Codewars](https://www.codewars.com/kata/sum-even-numbers)
 * [Word Search](7-kyu/20190106-wordsearch.js) - [Codewars](https://www.codewars.com/kata/wordsearch)
 * [You're a Square](7-kyu/20190103-youre-a-square.js) - [Codewars](https://www.codewars.com/kata/youre-a-square/train/javascript)

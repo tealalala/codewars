@@ -25,14 +25,14 @@ function longestConsec(strarr, k) {
 
 
 // Tests
-// longestConsec(["zone", "abigail", "theta", "form", "libe", "zas"], 2); // "abigailtheta"
-// longestConsec(["ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"], 1); // "oocccffuucccjjjkkkjyyyeehh"
-// longestConsec(["itvayloxrp","wkppqsztdkmvcuwvereiupccauycnjutlv","vweqilsfytihvrzlaodfixoyxvyuyvgpck"], 2); // "wkppqsztdkmvcuwvereiupccauycnjutlvvweqilsfytihvrzlaodfixoyxvyuyvgpck"
-// longestConsec(["wlwsasphmxx","owiaxujylentrklctozmymu","wpgozvxxiu"], 2); // "wlwsasphmxxowiaxujylentrklctozmymu"
-// longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 3); // ixoyx3452zzzzzzzzzzzz"
+longestConsec(["zone", "abigail", "theta", "form", "libe", "zas"], 2); // "abigailtheta"
+longestConsec(["ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"], 1); // "oocccffuucccjjjkkkjyyyeehh"
+longestConsec(["itvayloxrp","wkppqsztdkmvcuwvereiupccauycnjutlv","vweqilsfytihvrzlaodfixoyxvyuyvgpck"], 2); // "wkppqsztdkmvcuwvereiupccauycnjutlvvweqilsfytihvrzlaodfixoyxvyuyvgpck"
+longestConsec(["wlwsasphmxx","owiaxujylentrklctozmymu","wpgozvxxiu"], 2); // "wlwsasphmxxowiaxujylentrklctozmymu"
+longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 3); // ixoyx3452zzzzzzzzzzzz"
 
 // Tests - Return ""
-// longestConsec([], 3); // ""
-// longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 15); // ""
-// longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 0); // ""
-// longestConsec(["zone", "abigail", "theta", "form", "libe", "zas"], -2); // ""
+longestConsec([], 3); // ""
+longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 15); // ""
+longestConsec(["it","wkppv","ixoyx", "3452", "zzzzzzzzzzzz"], 0); // ""
+longestConsec(["zone", "abigail", "theta", "form", "libe", "zas"], -2); // ""

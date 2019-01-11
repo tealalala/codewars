@@ -13,12 +13,12 @@ function wordSearch(word, text){
 }
 
 // Tests
-// const myText = "what makes the desert beautiful, said the little prince is that somewhere it hides a well";
-//
-// wordSearch("desert",myText); // true
-// wordSearch("blue",myText); // false
-// wordSearch("well",myText); // true
-// wordSearch("house",myText); // false
-// wordSearch("beautiful",myText); // true
-// wordSearch("prince",myText); // true
-// wordSearch("le prince",myText); // false
+const myText = "what makes the desert beautiful, said the little prince is that somewhere it hides a well";
+
+wordSearch("desert",myText); // true
+wordSearch("blue",myText); // false
+wordSearch("well",myText); // true
+wordSearch("house",myText); // false
+wordSearch("beautiful",myText); // true
+wordSearch("prince",myText); // true
+wordSearch("le prince",myText); // false

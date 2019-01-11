@@ -5,7 +5,7 @@ ___
 ## 8 kyu
 
 ### January 2019
-10:
+09:
 * [Convert number to reversed array of digits](8-kyu/20190109-convert-number-to-reversed-array.js) - [Codewars](https://www.codewars.com/kata/convert-number-to-reversed-array-of-digits)
 * [Convert a String to a Number!](8-kyu/20190109-convert-string-to-number.js) - [Codewars](https://www.codewars.com/kata/convert-a-string-to-a-number)
 * [Count by X](8-kyu/20190109-count-by-x.js) - [Codewars](https://www.codewars.com/kata/count-by-x)
@@ -38,4 +38,10 @@ ___
 * [Consecutive Strings](7-kyu/20190108-consecutive-strings.js) - [Codewars](https://www.codewars.com/kata/consecutive-strings)
 * [Jaden Casing Strings](7-kyu/20190108-jaden-casing-strings.js) - [Codewars](https://www.codewars.com/kata/jaden-casing-strings)
 * [Merge two arrays](7-kyu/20190108-merge-two-arrays.js) - [Codewars](https://www.codewars.com/kata/merge-two-arrays)
+
+10:
+* [Descending Order](7-kyu/20190110-descending-order.js) - [Codewars](https://www.codewars.com/kata/descending-order)
+* [Exes and Ohs](7-kyu/20190110-exes-and-ohs.js) - [Codewars](https://www.codewars.com/kata/exes-and-ohs)
+* [Shortest Word](7-kyu/20190110-shortest-word.js) - [Codewars](https://www.codewars.com/kata/shortest-word)
+
 ___
