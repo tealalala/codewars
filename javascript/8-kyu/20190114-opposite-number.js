@@ -4,10 +4,12 @@
 // Opposite number
 // https://www.codewars.com/kata/opposite-number/
 
+// Solution 1
 function opposite(number) {
   return number > 0 ? -number : Math.abs(number);
 }
 
+// Tests
 opposite(1); // -1
 opposite(-1); // 1
 opposite(-1.555); // 1.555

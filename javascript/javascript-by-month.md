@@ -51,4 +51,10 @@ ___
 * [Disemvowel Trolls](7-kyu/20190114-disemvowel-trolls.js) - [Codewars](https://www.codewars.com/kata/disemvowel-trolls)
 * [Multiples of 3 or 5](6-kyu/20190114-multiples-of-3-or-5.js) - [Codewars](https://www.codewars.com/kata/multiples-of-3-or-5)
 * [Opposite number](8-kyu/20190114-opposite-number.js) - [Codewars](https://www.codewars.com/kata/opposite-number/)
+
+15:
+* [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](8-kyu/20190115-replace-vowels-exclaimation-mark.js) - [Codewars](https://www.codewars.com/kata/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence)
+* [How good are you really?](8-kyu/20190115-how-good-are-you.js) - [Codewars](https://www.codewars.com/kata/how-good-are-you-really)
+* [Merge two sorted arrays into one](8-kyu/20190115-merge-two-sorted-arrays.js) - [Codewars](https://www.codewars.com/kata/merge-two-sorted-arrays-into-one)
+* [Square(n) Sum](8-kyu/20190115-square-sum.js) - [Codewars](https://www.codewars.com/kata/square-n-sum)
 ___
