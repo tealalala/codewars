@@ -14,4 +14,4 @@ ___
 
 ___
 ## 5 kyu
-* [Directions Reduction](5-kyu/directions-reduction.rb) - [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/ruby)
+* [Directions Reduction](5-kyu/directions-reductio«n.rb) - [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/ruby)
